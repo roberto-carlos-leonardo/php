@@ -1,5 +1,5 @@
 <?php
 
-echo "teste de primeiro <strong> pgm </strong> php ";
+echo "segundo teste de primeiro <strong> pgm </strong> php ";
 
 ?>
